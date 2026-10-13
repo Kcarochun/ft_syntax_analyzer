@@ -1,4 +1,5 @@
-
+Оригинал:
+https://github.com/konverner/syntax_analyzer
 # Disclaimer
 
 This project created by me 5 years ago for educational purposes. For a while it was abandoned and archived, but many people contacted
